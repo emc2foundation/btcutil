@@ -6,7 +6,7 @@ package bloom
 
 import (
 	"github.com/roasbeef/btcd/blockchain"
-	chaincfg "github.com/matijamitic/emc2d-chainconfig/chainhash"
+	"github.com/matijamitic/emc2d-chainconfig/chainhash"
 	"github.com/roasbeef/btcd/wire"
 	"github.com/roasbeef/btcutil"
 )

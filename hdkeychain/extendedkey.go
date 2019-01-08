@@ -20,7 +20,7 @@ import (
 
 	"github.com/roasbeef/btcd/btcec"
 	chaincfg "github.com/matijamitic/emc2d-chainconfig"
-	chaincfg "github.com/matijamitic/emc2d-chainconfig/chainhash"
+	"github.com/matijamitic/emc2d-chainconfig/chainhash"
 	"github.com/roasbeef/btcutil"
 	"github.com/roasbeef/btcutil/base58"
 )

@@ -9,7 +9,7 @@ import (
 	"crypto/rand"
 	"encoding/binary"
 
-	chaincfg "github.com/matijamitic/emc2d-chainconfig/chainhash"
+	"github.com/matijamitic/emc2d-chainconfig/chainhash"
 	"github.com/roasbeef/btcd/txscript"
 	"github.com/roasbeef/btcd/wire"
 	"github.com/roasbeef/btcutil/gcs"
