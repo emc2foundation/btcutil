@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/roasbeef/btcd/chaincfg/chainhash"
+	chaincfg "github.com/matijamitic/emc2d-chainconfig/chainhash"
 	"github.com/roasbeef/btcd/wire"
 )
 

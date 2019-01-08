@@ -19,8 +19,8 @@ import (
 	"math/big"
 
 	"github.com/roasbeef/btcd/btcec"
-	"github.com/roasbeef/btcd/chaincfg"
-	"github.com/roasbeef/btcd/chaincfg/chainhash"
+	chaincfg "github.com/matijamitic/emc2d-chainconfig"
+	chaincfg "github.com/matijamitic/emc2d-chainconfig/chainhash"
 	"github.com/roasbeef/btcutil"
 	"github.com/roasbeef/btcutil/base58"
 )

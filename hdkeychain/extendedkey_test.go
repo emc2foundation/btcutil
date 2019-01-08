@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/roasbeef/btcd/chaincfg"
+	chaincfg "github.com/matijamitic/emc2d-chainconfig"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

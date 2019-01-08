@@ -7,7 +7,7 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/roasbeef/btcd/chaincfg"
+	chaincfg "github.com/matijamitic/emc2d-chainconfig"
 	"github.com/roasbeef/btcutil/hdkeychain"
 )
 

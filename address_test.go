@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	"github.com/btcsuite/golangcrypto/ripemd160"
-	"github.com/roasbeef/btcd/chaincfg"
+	chaincfg "github.com/matijamitic/emc2d-chainconfig"
 	"github.com/roasbeef/btcutil"
 )
 
