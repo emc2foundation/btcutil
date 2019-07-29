@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/roasbeef/btcd/btcec"
-	chaincfg "github.com/matijamitic/emc2d-chainconfig"
+	chaincfg "github.com/emc2foundation/mild-chainconfig"
 	. "github.com/roasbeef/btcutil"
 )
 

@@ -9,7 +9,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	chaincfg "github.com/matijamitic/emc2d-chainconfig"
+	chaincfg "github.com/emc2foundation/mild-chainconfig"
 	"github.com/roasbeef/btcd/chaincfg/chainhash"
 	"github.com/roasbeef/btcd/txscript"
 	"github.com/roasbeef/btcd/wire"
